@@ -9,9 +9,6 @@
 /* Begin PBXBuildFile section */
 		F90052662B9B63D500AAB4A3 /* CustomPopup.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90052652B9B63D500AAB4A3 /* CustomPopup.swift */; };
 		F90052682B9B63F200AAB4A3 /* CustomPopup.xib in Resources */ = {isa = PBXBuildFile; fileRef = F90052672B9B63F200AAB4A3 /* CustomPopup.xib */; };
-		F9B0C4232B9CE1AC00FE2458 /* slide.wav in Resources */ = {isa = PBXBuildFile; fileRef = F9B0C4222B9CE1AC00FE2458 /* slide.wav */; };
-		F9B0C4252B9CE32F00FE2458 /* gameover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9B0C4242B9CE32F00FE2458 /* gameover.mp3 */; };
-		F9B0C4292B9CE3B600FE2458 /* yeahya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9B0C4282B9CE3B600FE2458 /* yeahya.mp3 */; };
 		F9D007962B97CE8500C4797C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D007952B97CE8500C4797C /* AppDelegate.swift */; };
 		F9D007982B97CE8500C4797C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D007972B97CE8500C4797C /* SceneDelegate.swift */; };
 		F9D0079A2B97CE8500C4797C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D007992B97CE8500C4797C /* ViewController.swift */; };
@@ -19,16 +16,16 @@
 		F9D0079F2B97CE8600C4797C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9D0079E2B97CE8600C4797C /* Assets.xcassets */; };
 		F9D007A22B97CE8600C4797C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9D007A02B97CE8600C4797C /* LaunchScreen.storyboard */; };
 		F9D1176F2B9C6C2400992C9B /* restartRigby.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9D1176E2B9C6C2400992C9B /* restartRigby.mp3 */; };
-		F9D1177A2B9C7ED900992C9B /* countdownInit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9D117792B9C7ED900992C9B /* countdownInit.mp3 */; };
+		F9D1C7E02B9D1080004F935B /* countdownInit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9D1C7DC2B9D1080004F935B /* countdownInit.mp3 */; };
+		F9D1C7E12B9D1080004F935B /* yeahya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9D1C7DD2B9D1080004F935B /* yeahya.mp3 */; };
+		F9D1C7E22B9D1080004F935B /* slide.wav in Resources */ = {isa = PBXBuildFile; fileRef = F9D1C7DE2B9D1080004F935B /* slide.wav */; };
+		F9D1C7E32B9D1080004F935B /* gameover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F9D1C7DF2B9D1080004F935B /* gameover.mp3 */; };
 		F9F540172B992F25008D967C /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F540162B992F25008D967C /* UIViewController+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F90052652B9B63D500AAB4A3 /* CustomPopup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPopup.swift; sourceTree = "<group>"; };
 		F90052672B9B63F200AAB4A3 /* CustomPopup.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomPopup.xib; sourceTree = "<group>"; };
-		F9B0C4222B9CE1AC00FE2458 /* slide.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = slide.wav; path = ../../../../../Downloads/slide.wav; sourceTree = "<group>"; };
-		F9B0C4242B9CE32F00FE2458 /* gameover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = gameover.mp3; path = ../../../../../Downloads/gameover.mp3; sourceTree = "<group>"; };
-		F9B0C4282B9CE3B600FE2458 /* yeahya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yeahya.mp3; path = ../../../../../Downloads/yeahya.mp3; sourceTree = "<group>"; };
 		F9D007922B97CE8500C4797C /* CatchTheRigby.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatchTheRigby.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9D007952B97CE8500C4797C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9D007972B97CE8500C4797C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -38,7 +35,10 @@
 		F9D007A12B97CE8600C4797C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9D007A32B97CE8600C4797C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9D1176E2B9C6C2400992C9B /* restartRigby.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = restartRigby.mp3; sourceTree = "<group>"; };
-		F9D117792B9C7ED900992C9B /* countdownInit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = countdownInit.mp3; path = ../../../../../Downloads/countdownInit.mp3; sourceTree = "<group>"; };
+		F9D1C7DC2B9D1080004F935B /* countdownInit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = countdownInit.mp3; sourceTree = "<group>"; };
+		F9D1C7DD2B9D1080004F935B /* yeahya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yeahya.mp3; sourceTree = "<group>"; };
+		F9D1C7DE2B9D1080004F935B /* slide.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = slide.wav; sourceTree = "<group>"; };
+		F9D1C7DF2B9D1080004F935B /* gameover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gameover.mp3; sourceTree = "<group>"; };
 		F9F540162B992F25008D967C /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -98,11 +98,11 @@
 		F9D117702B9C6C2B00992C9B /* Music */ = {
 			isa = PBXGroup;
 			children = (
-				F9B0C4222B9CE1AC00FE2458 /* slide.wav */,
-				F9D117792B9C7ED900992C9B /* countdownInit.mp3 */,
+				F9D1C7DC2B9D1080004F935B /* countdownInit.mp3 */,
+				F9D1C7DF2B9D1080004F935B /* gameover.mp3 */,
+				F9D1C7DE2B9D1080004F935B /* slide.wav */,
+				F9D1C7DD2B9D1080004F935B /* yeahya.mp3 */,
 				F9D1176E2B9C6C2400992C9B /* restartRigby.mp3 */,
-				F9B0C4242B9CE32F00FE2458 /* gameover.mp3 */,
-				F9B0C4282B9CE3B600FE2458 /* yeahya.mp3 */,
 			);
 			path = Music;
 			sourceTree = "<group>";
@@ -165,15 +165,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F9B0C4252B9CE32F00FE2458 /* gameover.mp3 in Resources */,
-				F9D1177A2B9C7ED900992C9B /* countdownInit.mp3 in Resources */,
-				F9B0C4292B9CE3B600FE2458 /* yeahya.mp3 in Resources */,
+				F9D1C7E02B9D1080004F935B /* countdownInit.mp3 in Resources */,
 				F9D007A22B97CE8600C4797C /* LaunchScreen.storyboard in Resources */,
+				F9D1C7E12B9D1080004F935B /* yeahya.mp3 in Resources */,
 				F9D1176F2B9C6C2400992C9B /* restartRigby.mp3 in Resources */,
 				F9D0079F2B97CE8600C4797C /* Assets.xcassets in Resources */,
 				F9D0079D2B97CE8500C4797C /* Main.storyboard in Resources */,
-				F9B0C4232B9CE1AC00FE2458 /* slide.wav in Resources */,
+				F9D1C7E22B9D1080004F935B /* slide.wav in Resources */,
 				F90052682B9B63F200AAB4A3 /* CustomPopup.xib in Resources */,
+				F9D1C7E32B9D1080004F935B /* gameover.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
