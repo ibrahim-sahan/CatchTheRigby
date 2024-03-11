@@ -13,14 +13,6 @@ CatchTheRigby is a fun and engaging game developed using Swift. The objective is
 - **Popup Notification**: Informative popup notification appears when the player successfully completes a level, providing feedback and encouragement to the player.
 - **Engaging Audio**: Sound effects add excitement and immersion.
 - **Responsive Design**: The game's UI adapts to different screen sizes, ensuring a seamless experience on all devices.
-  
-### Usage
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/ibrahim-sahan/CatchTheRigby.git
-2. Open in Xcode: Open the CatchTheRigby.xcodeproj file in Xcode.
-3. Run the App: Build and run the project on your iOS device or simulator.
 
 ### Gameplay
 
@@ -32,15 +24,23 @@ CatchTheRigby is a fun and engaging game developed using Swift. The objective is
 6. The game ends after 10 seconds or if you miss Rigby. You can start over with restart game.
 7. Your score and best score are displayed.
 
-## Screenshots
-|Sign Up Screen|Username Required|Password Required|Password Mismatch|Password Mismatch|Sign Up Successful|
-|--|--|--|--|--|--|
-|<img width="1800" alt="Sign Up Screen" src="https://github.com/ibrahim-sahan/AlertProject/assets/121201456/1dc95e6d-a71c-413d-8deb-2e9b6e1c9ef6">|<img width="1100" alt="Username Required" src="https://github.com/ibrahim-sahan/AlertProject/assets/121201456/6205d083-addf-46da-899b-a9036e4018a5">|<img width="1200" alt="Password Required" src="https://github.com/ibrahim-sahan/AlertProject/assets/121201456/fe69c457-1ce6-48c7-aa58-9035112d8c9c">|<img width="1200" alt="Password Mismatch" src="https://github.com/ibrahim-sahan/AlertProject/assets/121201456/cd09fcfe-c51e-427a-b53c-ae8205da985c">|<img width="1200" alt="Password Mismatch" src="https://github.com/ibrahim-sahan/AlertProject/assets/121201456/6cac991d-b70a-402d-adf8-a10b629e3caa">|<img width="900" alt="Sign Up Successful" src="https://github.com/ibrahim-sahan/AlertProject/assets/121201456/521762aa-6a73-4166-8172-768d7da7cae7">|
+### Usage
 
-## Video
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/ibrahim-sahan/CatchTheRigby.git
+2. Open in Xcode: Open the CatchTheRigby.xcodeproj file in Xcode.
+3. Run the App: Build and run the project on your iOS device or simulator.
+
+## Screenshots
+
+|Launch Screen|Start Game Screen|Ready Screen(3-2-1)|Game Screen|Next Round Screen|Game Over Screen|
+|--|--|--|--|--|--|
+|<img width="200" height="300" alt="Launch Screen" src="https://github.com/ibrahim-sahan/CatchTheRigby/assets/121201456/3e5594cb-3935-4747-b986-583eb6f9d90c">|<img width="200" height="300" alt="Start Game Screen" src="https://github.com/ibrahim-sahan/CatchTheRigby/assets/121201456/84a2104e-e522-4f17-82b3-10cdbaf656e3">|<img width="200" height="300" alt="Ready Screen(3-2-1)" src="https://github.com/ibrahim-sahan/CatchTheRigby/assets/121201456/11a72f66-6079-49bc-940e-4759f15e8fa0">|<img width="200" height="300" alt="Game Screen" src="https://github.com/ibrahim-sahan/CatchTheRigby/assets/121201456/575add94-30af-4bf3-b431-7f5ef7e577f2">|<img width="200" height="300" alt="Game Screen" src="https://github.com/ibrahim-sahan/CatchTheRigby/assets/121201456/f1e518cc-b70d-4454-a5e9-ccca1e6b0a26">|<img width="200" height="300" alt="Next Round Screen" src="https://github.com/ibrahim-sahan/CatchTheRigby/assets/121201456/a0a90a2e-7adb-4fbb-961c-b2511aa45afe">|<img width="200" height="300" alt="Game Over Screen" src="https://github.com/ibrahim-sahan/CatchTheRigby/assets/121201456/575add94-30af-4bf3-b431-7f5ef7e577f2">|
+
+### Video
 
 [![Video](https://img.youtube.com/vi/1iJHwG3x_4c/maxresdefault.jpg)](https://youtu.be/1iJHwG3x_4c)
-
 
 
 ### This project was created for practicing iOS development skills. Feel free to use it as a learning resource or a starting point for your own projects.
