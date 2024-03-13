@@ -43,4 +43,4 @@ CatchTheRigby is a fun and engaging game developed using Swift. The objective is
 [![Video](https://img.youtube.com/vi/1iJHwG3x_4c/maxresdefault.jpg)](https://youtu.be/1iJHwG3x_4c)
 
 
-### This project was created for practicing iOS development skills. Feel free to use it as a learning resource or a starting point for your own projects.
+#### This project was created for practicing iOS development skills. Feel free to use it as a learning resource or a starting point for your own projects.
